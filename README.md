@@ -22,6 +22,15 @@ Você escolhe o tipo de dado, faz o upload ou fornece a URL, e o Oráculo respon
 - [OpenAI API](https://platform.openai.com/)
 - Python
 
+📚 O que você aprende
+Configurar ambiente para uso de LLMs com LangChain
+
+Criar WebApps com Streamlit
+
+Carregar e processar dados com Document Loaders
+
+Construir uma cadeia de conversação com memória
+
 ## 📦 Como usar
 
 1. Clone o repositório:
